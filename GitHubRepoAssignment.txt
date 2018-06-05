@@ -1,0 +1,7 @@
+git clone https://github.com/kpatel1293/GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+git status
+git add README.md
+git commit -m "update read me"
+git push
